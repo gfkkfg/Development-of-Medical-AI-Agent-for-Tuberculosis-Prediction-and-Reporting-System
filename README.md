@@ -65,7 +65,7 @@ This project is an AI-powered medical assistant that automates the process of de
 ### ⚙️ Setup Instructions
 
 # Clone the repository
-git clone https://github.com/your-username/tb-ai-agent.git
+git clone https://github.com/gfkkfg/Development-of-Medical-AI-Agent-for-Tuberculosis-Prediction-and-Reporting-System.git
 cd tb-ai-agent
 
 # Create a virtual environment
